@@ -1,0 +1,60 @@
+datalist { 
+    display: none;
+}
+
+
+body
+{
+	background:black;
+}
+.mont
+{
+font-family:'Conv_montserrat-light_[allfont.net]',Sans-Serif;
+font-weight:bold;
+}
+.white
+{
+	color:white;
+}
+
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+	transition:vertical-align .3s;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto; 
+    width: /*whatever width you want*/;
+}
+.cewell
+{
+	background:white;
+	
+}
+.labe
+{
+	margin-top:10px;
+	margin-left:-10px;
+}
+.mar
+{
+	margin-top:10px;
+}
+
+.marg
+{
+	margin-top:10px;
+}
+.hrr
+{
+	border-color:white;
+}
